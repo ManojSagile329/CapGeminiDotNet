@@ -1,1 +1,4 @@
 Hi All
+
+
+This wikiHow teaches you how to sign up for a free personal account on GitHub. Your free GitHub account gives you unlimited access to public and private software repositories and the ability to collaborate with up to 3 users. If you're looking for a more advanced option, you can upgrade to GitHub Pro, which gives you unrestricted access to all repositories, unlimited collaborators, statistics, wikis, and more.
